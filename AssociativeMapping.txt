@@ -1,0 +1,8 @@
+Type of Mapping: Completely Associative Mapping
+
+----- Associative Mapping by Column -----
+Hits ratio: 93.75%
+
+----- Associative Mapping by Line -----
+Hits ratio: 0%
+
